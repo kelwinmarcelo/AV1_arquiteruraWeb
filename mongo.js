@@ -1,6 +1,6 @@
 const MongoClient = require("mongodb").MongoClient;
 
-const url = "mongodb+srv://Maps:YIt6453Vmi45SIOI@cluster0.5j9erod.mongodb.net/?retryWrites=true&w=majority";
+const url = "mongodb+srv://KelwinMarcelo12113272:YIt6453Vmi45SIOI@cluster0.5j9erod.mongodb.net/Maps?retryWrites=true&w=majority";
 
 async function consultarTodasLocalizacoes() {
     try {
